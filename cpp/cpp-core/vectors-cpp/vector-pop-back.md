@@ -17,7 +17,7 @@ category: must-know
 ```cpp
 std::vector<int> numbers;
 
-numbers.push_back(1);
+numbers.push_back(5);
 printf("Size: %d\n", numbers.size());  
 // Output: Size: 1
 
